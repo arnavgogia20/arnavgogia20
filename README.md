@@ -1,8 +1,12 @@
 <div align="center">
 
-# 👋 Hey, I'm Arnav Gogia
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arnav%20Gogia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%7C+Open+Source+Contributor;Building+Scalable+Web+Applications;Crafting+Seamless+User+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+Open+Source+Contributor;Building+Scalable+Web+Applications+%F0%9F%9A%80;Crafting+Seamless+User+Experiences+%E2%9C%A8" alt="Typing SVG" />
+
+<br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=A9FEF7&center=true&vCenter=true&multiline=false&width=600&height=50&lines=React+%E2%9A%9B%EF%B8%8F+JavaScript+%F0%9F%92%9B+Java+%E2%98%95+Go+%F0%9F%94%B5;Turning+Ideas+into+Reality;Code+%7C+Create+%7C+Collaborate" alt="Typing SVG" /></a>
 
 <br>
 
@@ -10,9 +14,17 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavgogia-)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavgogia404@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+<p align="center">
+  <a href="https://www.linkedin.com/in/arnavgogia-">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:arnavgogia404@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+  <a href="https://your-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/>
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
