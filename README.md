@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arnav%20Gogia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+Open+Source+Contributor;Building+Scalable+Web+Applications+%F0%9F%9A%80;Crafting+Seamless+User+Experiences+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Full+Stack+Developer+%7C+Open+Source+Contributor;Building+Scalable+Web+Applications+%F0%9F%9A%80;Crafting+Seamless+User+Experiences+%E2%9C%A8" alt="Typing SVG" />
 
 <br>
 
@@ -218,6 +218,12 @@ I actively contribute to open-source projects and believe in the power of collab
 - Clear, documented code
 - Responsive to feedback
 - Community-first mindset
+
+<br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 <br>
 
