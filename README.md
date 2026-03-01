@@ -21,9 +21,9 @@
   <a href="mailto:arnavgogia404@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
-  <!-- <a href="https://your-portfolio.vercel.app">
+  <a href="https://your-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/>
-  </a> -->
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
